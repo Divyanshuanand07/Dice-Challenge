@@ -1,0 +1,27 @@
+body{
+    background-color:burlywood
+}
+.Dice {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+h1{
+    color:cyan;
+    font-size: 5rem;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;;
+}
+.Dice1, .Dice2
+{   
+    text-align: center;
+    display: inline-block;
+    
+}
+p{
+    font-size: 2rem;
+    color:brown;
+    font-family: 'Pacifico', cursive;;
+    
+}
